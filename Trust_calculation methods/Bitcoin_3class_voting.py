@@ -158,11 +158,6 @@ with open("dataset/BitcoinOTC/OTC_node_order.txt", "w") as f:
     f.write("\n")  # newline at the end of file
 
 # rank zero means unknown
-"""
-for items in unlabeled_nodes:
-    unlabeled_rank[int(items)]=0
-nx.set_node_attributes(G, unlabeled_rank,'rank')
-"""
 # dataset/BitcoinOTC/soc-sign-bitcoinotc.csv/RegressionBitcoinOTC.graphml
 nx.write_graphml_lxml(
     G, "dataset/BitcoinOTC/regression_biased/RegressionBitcoinOTC.graphml"
