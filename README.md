@@ -1,6 +1,6 @@
 # Exploring Diverse Trust Calculation Methods in Cryptocurrency Networks
 
-Unravel the intricacies of trust dynamics within the realms of cryptocurrency networks. This repository delves into the depths of trust calculation methods, focusing on prominent networks such as Bitcoin Alpha and Bitcoin OTC.
+Reveal the intricacies of trust dynamics within the cryptocurrency network domain. This repository consists of diverse trust calculation methods, focusing on temporal trust networks such as Bitcoin Alpha and Bitcoin OTC.
 
 ## Key Features:
 
